@@ -1,0 +1,2 @@
+Esse é o resultado final do curso de HTML + CSS do curso em video do Gustavo Guanabara. 
+No meu git hub tem dois projetos um feito por mim sozinho como desafio do curso e outro seguindo as orientações do Gustavo que é este projeto aqui. 
